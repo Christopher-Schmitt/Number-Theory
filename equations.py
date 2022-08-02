@@ -1,4 +1,6 @@
-
+# Author: Christopher Schmitt
+# Equations
+# Description: Elementary Number Theory equations/solutions using elementary algorithms.
 def gcd(x,y):
     # y = xq + r
     if x == 0 and y == 0:
